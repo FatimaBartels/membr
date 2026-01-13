@@ -6,7 +6,7 @@ A clean and modern newsletter subscription landing page built with **Laravel**, 
 
 ---
 
-## ✨ Features
+## Features
 
 -   Full-width hero section with subscription form
 -   Blade components for reusable UI elements
@@ -29,7 +29,7 @@ A clean and modern newsletter subscription landing page built with **Laravel**, 
 
 ---
 
-## 📁 Project Structure Highlights
+## Project Structure Highlights
 
 resources/
 ├── views/
@@ -44,7 +44,7 @@ resources/
 │ │ └── footer.blade.php
 │ └── index.blade.php
 
-## 🧠 What I Practiced in This Project
+## What I Practiced in This Project
 
 -   Laravel routing and controllers
 -   Request validation
@@ -55,7 +55,7 @@ resources/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ```bash
 git clone https://github.com/FatimaBartels/membr.git
@@ -66,7 +66,7 @@ php artisan migrate
 php artisan serve
 
 
-📌 Future Improvements
+** Future Improvements
 Authentication (user login)
 
 Email notifications
@@ -85,6 +85,6 @@ GitHub: https://github.com/FatimaBartels
 
 LinkedIn: https://www.linkedin.com/in/fatimabartels/
 
-## 📝 License
+📝 License
 This project is for educational purposes.
 ```

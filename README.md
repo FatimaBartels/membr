@@ -53,8 +53,14 @@ resources/
 -   Component-based frontend architecture
 -   Clean CSS styling without heavy frameworks
 
----
 
+## Future Improvements
+- Authentication (user login)
+- Email notifications
+- Admin dashboard for subscribers
+- API endpoints
+- Queue-based email sending
+---
 ##  Getting Started
 
 ```bash
@@ -64,20 +70,11 @@ composer install
 php artisan key:generate
 php artisan migrate
 php artisan serve
+```
+---
 
 
-** Future Improvements
-Authentication (user login)
-
-Email notifications
-
-Admin dashboard for subscribers
-
-API endpoints
-
-Queue-based email sending
-
-👩‍💻 Author
+## 👩‍💻 Author
 Fatima Bartels
 Frontend / Full-stack Developer
 
@@ -85,6 +82,6 @@ GitHub: https://github.com/FatimaBartels
 
 LinkedIn: https://www.linkedin.com/in/fatimabartels/
 
-📝 License
+## 📝 License
 This project is for educational purposes.
-```
+
